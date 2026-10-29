@@ -30,14 +30,11 @@ Dựa trên kết quả chạy thực nghiệm, dưới đây là đánh giá ch
 | 3. EA-LSTM (Arch SOTA) | 0.1296 | 0.0956 | -0.3957| 0.3203 |
 | 4. Peak-LSTM (Loss SOTA)| 0.1075 | 0.0729 | 0.0396 | 0.5675 |
 
-> **[THAY THẾ BẰNG ẢNH BIỂU ĐỒ CỘT SO SÁNH NSE VÀ KGE CỦA BẠN]**
-> ![Biểu đồ so sánh chỉ số NSE và KGE](<img width="622" height="303" alt="image" src="https://github.com/user-attachments/assets/160a5b80-7d4e-4012-aa22-a6a147ffd8e9" />
-)
 
 ### Đánh giá Chi tiết (Tham chiếu Biểu đồ Hydrograph)
 
-> **[THAY THẾ BẰNG ẢNH BIỂU ĐỒ HYDROGRAPH (ĐƯỜNG CONG THỦY VĂN) CỦA BẠN]**
-> ![Đường cong Thủy văn Hydrograph]()
+> **[BIỂU ĐỒ HYDROGRAPH (ĐƯỜNG CONG THỦY VĂN)]**
+> ![Đường cong Thủy văn Hydrograph](https://github.com/duy30052005/AI4life/blob/main/Screenshot%202026-10-30%20000640.png)
 
 #### 1. ARIMAX (Đường nét chấm màu xám)
 *   **Điểm mạnh:** Đạt chỉ số hoàn hảo ($NSE = 0.9360$). Trên biểu đồ, đường ARIMAX bám sát đường quan trắc thực tế (màu đen) gần như tuyệt đối ở cả mùa kiệt và đỉnh lũ.
